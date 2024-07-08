@@ -38,7 +38,7 @@ Processo de separar a sentença em suas partes: palavras, pontos, símbolos.
 Adiciona tags a cada token, como por exemplo, se é verbo, substantivo, etc.
 
 
-![Exemplo](/Imagem/Parts-of-Speech%20Taggong%20(POS).png)
+![Exemplo](/Imagem/PartsOfSpeechTaggong.png)
 
 ### Lemmatizing (Lemma)
 Traz a palavra na sua flexão, de modo que possam ser analisadas juntas.
